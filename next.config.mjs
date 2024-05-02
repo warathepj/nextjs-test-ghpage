@@ -2,7 +2,7 @@
 // const isProd = process.env.NODE_ENV === 'production';
 const nextConfig = {
     // basePath: isProd ? '/nextjs-test-ghpage' : '',
-    basePath: '/nextjs-test-ghpage',
+    // basePath: '/nextjs-test-ghpage',
     output: 'export',
     distDir: 'dist',
     images: {
